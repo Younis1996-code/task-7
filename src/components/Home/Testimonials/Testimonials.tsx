@@ -2,8 +2,8 @@
 
 import { useEffect, useState } from 'react'
 import HomeTitle from '../HomeTitle';
-import SliderButtons from '../HomeExplore.tsx/SliderButtons';
-import DataSlider from '../HomeExplore.tsx/DataSlider';
+import SliderButtons from '../HomeExplore/SliderButtons';
+import DataSlider from '../HomeExplore/DataSlider';
 import testiIma from "@/assets/Home/testimonials.png"
 import { StaticImageData } from 'next/image';
 import TestiSlider from './TestiSlider';
